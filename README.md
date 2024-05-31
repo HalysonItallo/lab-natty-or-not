@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A fluidez da vida
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma pintura no estilo de Salvador Dali demonstrando o fluxo da vida, tendo como tema intrínseco a sensação de perder alguém
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot, usando o DALL-E v3
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Coloquei o script da descrição
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[![Art](https://copilot.microsoft.com/images/create/a-painting-in-the-style-of-salvador-dali-demonstra/1-665a00e226d54133a307c693aeccd088?id=nB%2fa8hegcP0ISf2QbT1ygA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.cQS0MadB6nfcYO5SDv6j&FORM=SYDBIC)](https://copilot.microsoft.com/images/create/a-painting-in-the-style-of-salvador-dali-demonstra/1-665a00e226d54133a307c693aeccd088?id=nB%2fa8hegcP0ISf2QbT1ygA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.cQS0MadB6nfcYO5SDv6j&FORM=SYDBIC)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
